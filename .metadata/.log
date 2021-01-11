@@ -947,3 +947,33 @@ org.eclipse.core.runtime.CoreException: Launch configuration Application referen
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
 !SUBENTRY 1 org.eclipse.jdt.launching 4 107 2021-01-11 16:02:17.936
 !MESSAGE Launch configuration Application references non-existing project spring-boot.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-11 16:06:49.938
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-11 16:06:49.939
+!MESSAGE classpath=1 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-11 16:06:49.940
+!MESSAGE buffering callback sts4.classpath.bKyHuIht spring-boot false 1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-11 16:06:49.940
+!MESSAGE executing callback sts4.classpath.bKyHuIht 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-11 16:06:49.943
+!MESSAGE executing callback sts4.classpath.bKyHuIht SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-11 16:06:50.281
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-11 16:06:50.283
+!MESSAGE classpath=73 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-11 16:06:50.285
+!MESSAGE buffering callback sts4.classpath.bKyHuIht spring-boot false 73
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-11 16:06:50.285
+!MESSAGE executing callback sts4.classpath.bKyHuIht 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-11 16:06:50.291
+!MESSAGE executing callback sts4.classpath.bKyHuIht SUCCESS [done]
